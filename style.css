@@ -1,0 +1,46 @@
+body {
+    font-family: "Ebrima", "Ebrima", "Nirmala UI", "Gadugi", "Segoe UI Emoji", "Segoe MDL2 Assets", "Symbols", "Yu Gothic UI", "Yu Gothic", "Meiryo UI", "Leelawadee UI", "Microsoft YaHei UI", "Microsoft JhengHei UI", "Malgun Gothic", "Segoe UI Historic", "Estrangelo Edessa", "Microsoft Himalaya", "Microsoft New Tai Lue", "Microsoft PhagsPa", "Microsoft Tai Le", "Microsoft Yi Baiti", "Mongolian Baiti", "MV Boli", "Myanmar Text", "Javanese Text", "Cambria Math";
+}
+.member-picture {
+    max-width: 100%;
+    grid-row: 1/2;
+    grid-column: 1;
+}
+
+.member-container {
+    max-width: 25%;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.picture-list-container {
+    display: flex;
+}
+
+.member-name {
+    text-align: center;
+}
+.header-img {
+    max-width: 100% !important;
+    max-height: 100% !important;
+    display: block;
+    object-fit: cover;
+}
+.bg-custom {
+    background-color: #606f9c;
+}
+.bg-custom a {
+    color: white;
+}
+
+h2 {
+    text-align:center;
+}
+iframe {
+    display:block;
+    margin: 0 auto;
+}
+footer p{
+
+    text-align: center;
+}
